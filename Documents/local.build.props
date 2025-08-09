@@ -1,0 +1,11 @@
+<Project>
+    <PropertyGroup>
+        <MelonPath>..\_ScheduleOneAssemblies\MelonLoader</MelonPath>
+        
+        <LocalMonoDeploymentPath>Output\Mono</LocalMonoDeploymentPath>        
+        <MonoPath>..\_ScheduleOneAssemblies\Managed</MonoPath>
+        
+        <LocalIl2CppDeploymentPath>Output\Il2Cpp</LocalIl2CppDeploymentPath>
+        <Il2CppPath>..\_ScheduleOneAssemblies\Il2CppAssemblies</Il2CppPath>
+    </PropertyGroup>
+</Project>
