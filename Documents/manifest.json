@@ -1,9 +1,0 @@
-{
-  "name": "Packagers Load Vehicles",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/GuysWeForgotDre/PackagersLoadVehicles",
-  "description": "Enables Schedule I Packagers to load vehicles parked in Loading Bays",
-  "dependencies": [
-    "LavaGang-MelonLoader-0.7.0"
-  ]
-}
