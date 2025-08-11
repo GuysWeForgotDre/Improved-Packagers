@@ -1,16 +1,16 @@
 ﻿using MelonLoader;
-using PackagersLoadVehicles;
+using ImprovedPackagers;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: MelonInfo(typeof(LoadVehicles), LoadVehicles.ModName, LoadVehicles.Version, "GuysWeForgotDre")]
+[assembly: MelonInfo(typeof(ImprovedPackagers.ImprovedPackagers), ImprovedPackagers.ImprovedPackagers.ModName, ImprovedPackagers.ImprovedPackagers.Version, "GuysWeForgotDre")]
 [assembly: MelonGame("TVGS", "Schedule I")]
 
-[assembly: AssemblyTitle(LoadVehicles.ModName)]
-[assembly: AssemblyDescription(LoadVehicles.ModDesc)]
+[assembly: AssemblyTitle(ImprovedPackagers.ImprovedPackagers.ModName)]
+[assembly: AssemblyDescription(ImprovedPackagers.ImprovedPackagers.ModDesc)]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct(LoadVehicles.ModName)]
+[assembly: AssemblyProduct(ImprovedPackagers.ImprovedPackagers.ModName)]
 [assembly: AssemblyCopyright("Copyright © 2025")]
 [assembly: ComVisible(false)]
-[assembly: AssemblyVersion(LoadVehicles.Version)]
+[assembly: AssemblyVersion(ImprovedPackagers.ImprovedPackagers.Version)]
